@@ -57,4 +57,4 @@ A specialized JavaScript module engineered for the precise rendering of financia
 
 ## 👩‍💻 Developer
 
-**Esra Tosun** *Software Engineer | Specializing in Financial Systems & Enterprise Automation*
+**Esra Tosun** *Software Engineer*
